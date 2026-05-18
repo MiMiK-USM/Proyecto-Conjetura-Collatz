@@ -6,7 +6,5 @@
 * Diego Escobar
 * Paula Valdivia
 
-**Descripción del Repositorio:**
-Este repositorio contiene el desarrollo técnico del Proyecto 1. 
-* Carpeta `notebooks/`: Contiene el código fuente final en Python (`codigo_completo.ipynb`) con el algoritmo de Collatz optimizado y gráficos preliminares.
-* Carpeta `data/`: Almacena la matriz original de 100.000 registros exportada en formato CSV (`datos_collatz_100k.csv`) utilizada para el análisis estadístico de la Fase 2.
+Carpeta notebooks: Contiene el desarrollo técnico dividido en tres partes: 01_fase_base.ipynb, 02_fase_analisis.ipynb y 03_fase_extension.ipynb.
+Carpeta data: Almacena el archivo de datos datos_carlson.csv utilizado para el análisis de la Fase 2.
