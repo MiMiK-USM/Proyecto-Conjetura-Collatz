@@ -16,7 +16,7 @@ Para poder ejecutar los análisis y códigos de este proyecto, asegúrate de ten
    pip install -r requirements.txt
    ```
 
-## 🚀 Orden de Ejecución de los Notebooks
+Orden de ejecucion de notebooks
 
 Para que los datos y los gráficos se generen correctamente en la carpeta `/figs`, los códigos deben ejecutarse de forma secuencial dentro de la carpeta `notebooks/`:
 
