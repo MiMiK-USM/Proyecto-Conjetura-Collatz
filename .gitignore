@@ -1,4 +1,21 @@
+# Jupyter Notebooks y temporales
 .ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python (archivos compilados)
 __pycache__/
 *.pyc
+
+# Archivos basura o auxiliares de LaTeX (para el informe)
+*.aux
+*.log
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.pdf
+!figs/*.pdf
+
+# Archivos del Sistema Operativo
 .DS_Store
+Thumbs.db
