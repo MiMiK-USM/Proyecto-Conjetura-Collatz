@@ -1,7 +1,1 @@
-# Gráfico de dispersión
-plt.scatter(n_valores, tiempos, alpha=0.3, s=1, color='blue')
-# ... títulos y etiquetas ...
 
-# ESTA LÍNEA HACE LA MAGIA:
-plt.savefig('../figs/collatz_dispersion.png', dpi=300) 
-plt.show()
