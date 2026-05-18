@@ -6,7 +6,7 @@
 * Diego Escobar
 * Paula Valdivia
 
-## 🛠️ Requisitos e Instalación
+Requisitos de instalacion 
 
 Para poder ejecutar los análisis y códigos de este proyecto, asegúrate de tener Python 3 instalado en tu equipo y sigue estos pasos:
 
