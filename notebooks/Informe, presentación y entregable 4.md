@@ -7,9 +7,9 @@ Este repositorio contiene el desarrollo computacional, el procesamiento estadís
 
 Para revisar los resultados detallados y el marco teórico de la investigación, puedes acceder directamente a los documentos finales a través de los siguientes enlaces:
 
-* 📘 **[Leer el Informe Técnico Completo (PDF)](AQUÍ_PEGAS_EL_LINK_DE_GOOGLE_DRIVE_O_OVERLEAF)**
-* 📊 **[Ver Presentación Ejecutiva (Beamer)](AQUÍ_PEGAS_EL_LINK_DE_TU_PRESENTACION)**
-* 👥 **[Revisar Informe de Organización del Equipo](AQUÍ_PEGAS_EL_LINK_DEL_DOC_DE_ORGANIZACION)**
+* 📘 **[Leer el Informe Técnico Completo (PDF)](https://es.overleaf.com/read/fdbyfpbsgdcg#5c384b)**
+* 📊 **[Ver Presentación Ejecutiva (Beamer)](https://es.overleaf.com/read/jsbntsfkfchj#447d4f )**
+* 👥 **[Revisar Informe de Organización del Equipo](https://docs.google.com/document/d/1oxXGjp8i6rtV45qB3JdRBXLn8XdHLXnPlEkeqN_4sYE/edit?usp=drivesdk)**
 
 ---
 ## 💻 Estructura del Repositorio
